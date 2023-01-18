@@ -62,6 +62,7 @@ Here is all I practiced from feb 2022 to now ! 💪🏼
 |Merise (CMD, GPM, PDM)||||||
 
 <hr>
+
 ## Here are all my stats 🔬🧪❇️
 
 <div align="center"><img src='https://streak-stats.demolab.com?user=FredGuiou&theme=cobalt&border_radius=20&background=0A2932'></div>
@@ -85,3 +86,5 @@ Sources :
 * [Badges](https://shields.io/category/build)
 * [1st contribution for stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 * [2nd contribution for stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+
+Thanks to Yumicode, Zarwine & Megafredo for their design opinions 😊
