@@ -73,6 +73,8 @@ Here is all I practiced from feb 2022 to now ! 💪🏼
 <br>
 <div align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=FredGuiou&layout=compact&theme=cobalt&border_radius=20&bg_color=0A2932'></div>
 
+<br>
+<hr>
 <p align="center">
 In the "Pinned" category below you will find six works that offer insight into my technical skills. I also invite you to consult TP-DWWM-2022 in which you will find my professional title files presenting in particular the "Sonow" project, the entire code of which is also accessible to you.
 </p><br>
