@@ -37,7 +37,7 @@ Here is all I practiced from feb 2022 to now ! 💪🏼
     <img style="border-radius: 8px;" src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/thedevmot/">
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge" alt="Instagram Badge"/>
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
