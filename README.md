@@ -20,7 +20,7 @@ Here is all I practiced from feb 2022 to now ! 💪🏼
 <p align="center">
 🟣 Previously,<br> I was an accountant for seventeen years, during which time I developed my professional skills, both technical and human.<br><br>
 🟢Since 2022 and until today,<br> I have done everything possible to allow me to improve my skills in web development, thanks to intense training and the preparation of the defense of my professional title DWWM in front of a jury of two senior professionals. I also continued to practice while looking for a position in this universe that I like so much.<br><br>
-🟠 Soon,<br> I want to join a dynamic team that will make me participate in the development of captivating projects that will provide solutions to user requests.
+🟠 At the moment,<br> I have just joined the Node.js backend team of the My Unisoft company and the alternating training application designer developer of the O'clock school in order to consolidate my previous notions, build skills, and generate professional experience.
 </p>
 
 <hr>
